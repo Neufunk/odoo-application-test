@@ -1,14 +1,14 @@
 # Oddo Application Test
 
-###INFORMATIONS
+### INFORMATIONS
 This application consist of a serie of 3 exercices:
 
-* #####CheckOpenSource
+* ##### CheckOpenSource
 This algorithm goes from 1 up to 99, and replace every multiple of 3 by "Open", every multiple of 7 by "Source",
 and multiple of both numbers by "OpenSource".
-* #####ExpandRandom
+* ##### ExpandRandom
 The goal of this algorithm was to print a random number, that should never be greater than 7.
-* #####StringToInt
+* ##### StringToInt
 This algorithm takes a List<String> as input, and outputs the sum of numbers in it, if any
 
 --------------------------------------------------
